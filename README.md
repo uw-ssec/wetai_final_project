@@ -44,12 +44,15 @@ given the opportunity again, what experiment would you do?
 
 ### References
 Minimum: 10 sources
-Reference Format: Any, just keep it consistent
+- Reference Format: Any, just keep it consistent
 
 ### Paper Specifications
-Format: Google Docs Font: Arial, 11pt font Spacing: single Margins: 1 inch
-Text Length: 5-8 pages
-Due Date: June 14, 11:59pm
+- Format: Google Docs
+- Font: Arial, 11pt font
+- Spacing: single
+- Margins: 1 inch
+- Text Length: 5-8 pages
+- Due Date: June 14, 11:59pm
 
 ## Presentation (30% of final grade)
 Your group will present a 25 minute talk where you showcase the results of your experiment. Classmates then have 5 minutes to ask questions about your presentation.
@@ -62,8 +65,8 @@ Some words of advice – Lots of text is a sign of a bad presentation. Presentat
 - Did I practice speaking the presentation out loud and time myself?
  
 ### Presentation Specifications
-Format: Google Slides
-Talk: 25 minutes
-Questions: 5 minutes
-Time: Jun 14, 12-3pm
-Location: Psys Sci 114
+- Format: Google Slides
+- Talk: 25 minutes
+- Questions: 5 minutes
+- Time: Jun 14, 12-3pm
+- Location: Psys Sci 114
